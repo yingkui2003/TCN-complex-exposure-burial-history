@@ -1,4 +1,4 @@
-## TCN complex exposure-burial history simulation tool
+# TCN complex exposure-burial history simulation tool
 This tool was developed to simulate the complex exposure burial history based on measured Be and Al concentrations for bedrock/boulder surfaces that experienced the repeated coverages of glaciers or ice sheets. The detailed description of this tool can be found in 
 https://www.sciencedirect.com/science/article/abs/pii/S0169555X07004904 or the Geomorphology paper uploaded in this Github page.
 
@@ -39,6 +39,31 @@ The second tool is a simple climate proxy curve test result for an exposure age 
 The input parameters include: a climate proxy curve (record), an exposure age, and then if run the cut test of the climate curve by the first cut age or a cutoff value. The tool will then determine the total exposure and burial ages based on these parameters. Below is one example:
 <img width="408" height="430" alt="image" src="https://github.com/user-attachments/assets/890c802f-868e-4b68-a09e-b16926d6f4b3" />
 
+This exe file also includes some other general cosmogenic nuclide related tools:
+<img width="214" height="144" alt="image" src="https://github.com/user-attachments/assets/3f0bd3e8-516a-4d82-93f6-e163bd3b0ac1" />
+
+However, with the continous updates, most of these tools are out dated, except for the thickness correction and shielding factor. In particular, the shielding factor was designed to derive the topographic shielding factor based on a set of measured azimuth and elevation angle pairs, as well as the Dip and strike values. 
+<img width="398" height="442" alt="image" src="https://github.com/user-attachments/assets/e334e116-0f2f-48e3-b1fa-168eb414a509" />
+
+The ArcGIS version of the topographic shielding factors can be founded in the Github page https://github.com/yingkui2003/Area-shielding for an area and https://github.com/yingkui2003/topo-shielding for individual samples.
+
+# Cite this work
+Li, Y., Fabel, D., Stroeven, A.P., Harbor, J., 2008. Unraveling complex exposure-burial histories of bedrock surfaces under ice sheets by integrating cosmogenic nuclide concentrations with climate proxy records. Geomorphology 99, 139–149. https://doi.org/10.1016/j.geomorph.2007.10.010
+
+# Contact info
+Yingkui Li
+
+Department of Geography & Sustainability
+
+University of Tennessee
+
+Knoxville, TN 37996
+
+Email: yli32@utk.edu
+
+Website: https://geography.utk.edu/about-us/faculty/dr-yingkui-li/
+
+Google Scholar: https://scholar.google.com/citations?user=JoNuyCMAAAAJ&hl=en&oi=ao
 
 
 
