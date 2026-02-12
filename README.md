@@ -37,6 +37,7 @@ The second tool is a simple climate proxy curve test result for an exposure age 
 <img width="402" height="429" alt="image" src="https://github.com/user-attachments/assets/1438b3b8-0972-4f22-95be-ca1ce1dff6c6" />
 
 The input parameters include: a climate proxy curve (record), an exposure age, and then if run the cut test of the climate curve by the first cut age or a cutoff value. The tool will then determine the total exposure and burial ages based on these parameters. Below is one example:
+
 <img width="408" height="430" alt="image" src="https://github.com/user-attachments/assets/890c802f-868e-4b68-a09e-b16926d6f4b3" />
 
 This exe file also includes some other general cosmogenic nuclide related tools:
