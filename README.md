@@ -40,9 +40,11 @@ The input parameters include: a climate proxy curve (record), an exposure age, a
 <img width="408" height="430" alt="image" src="https://github.com/user-attachments/assets/890c802f-868e-4b68-a09e-b16926d6f4b3" />
 
 This exe file also includes some other general cosmogenic nuclide related tools:
+
 <img width="214" height="144" alt="image" src="https://github.com/user-attachments/assets/3f0bd3e8-516a-4d82-93f6-e163bd3b0ac1" />
 
 However, with the continous updates, most of these tools are out dated, except for the thickness correction and shielding factor. In particular, the shielding factor was designed to derive the topographic shielding factor based on a set of measured azimuth and elevation angle pairs, as well as the Dip and strike values. 
+
 <img width="398" height="442" alt="image" src="https://github.com/user-attachments/assets/e334e116-0f2f-48e3-b1fa-168eb414a509" />
 
 The ArcGIS version of the topographic shielding factors can be founded in the Github page https://github.com/yingkui2003/Area-shielding for an area and https://github.com/yingkui2003/topo-shielding for individual samples.
