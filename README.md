@@ -3,6 +3,7 @@ This tool was developed to simulate the complex exposure burial history based on
 https://www.sciencedirect.com/science/article/abs/pii/S0169555X07004904 or the Geomorphology paper uploaded in this Github page.
 
 This tool was developed by C++. You can download the exe file and run it in Windows by double clicking the downloaded ClimateCurve.exe file. When first runing it, the System may show a warning and just choose run it anyway. The following is the screenshot of the interface of this exe file:
+
 <img width="913" height="588" alt="image" src="https://github.com/user-attachments/assets/6d4fe3ad-5bd4-4693-95d9-97d5713e485d" />
 
 There are two tools under the "ClimateCurve" menu: "Climate Proxy Curve Simulation" and "Climate Proxy Curve Cut Results". The "Climate Proxy Curve Simulation" tool is the major tool for the complex exposure burial history simulation. The following is the interface of this tool:
