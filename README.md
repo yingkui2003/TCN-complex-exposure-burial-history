@@ -9,6 +9,7 @@ This tool was developed by C++. You can download the exe file and run it in Wind
 There are two tools under the "ClimateCurve" menu: "Climate Proxy Curve Simulation" and "Climate Proxy Curve Cut Results". The "Climate Proxy Curve Simulation" tool is the major tool for the complex exposure burial history simulation. The following is the interface of this tool:
 
 <img width="511" height="555" alt="image" src="https://github.com/user-attachments/assets/d628c6ba-6183-4595-809c-522857f0fc5c" />
+
 The Input parameters include: 
 1) measured Be-10 concentration (atoms/g)
 2) Be-10 concentration error (atoms/g)
